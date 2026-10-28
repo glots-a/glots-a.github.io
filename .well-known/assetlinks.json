@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mak.elab",
+      "sha256_cert_fingerprints": [
+        "D9:6D:47:02:53:90:26:56:46:43:C1:C5:47:47:4F:29:CF:C0:30:7C:78:E3:8C:A2:90:92:FD:CD:4E:00:E5:50",
+        "55:5A:BE:00:FF:4A:D8:8D:F2:3F:EF:0B:43:EC:B5:93:66:3D:4F:BF:40:F8:19:B5:31:A6:2D:11:22:77:FE:A1",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
+  }
+]
